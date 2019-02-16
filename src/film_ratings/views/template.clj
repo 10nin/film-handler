@@ -16,7 +16,7 @@
      [:div.container-fluid
       [:div.navbar.navbar-dark.bg-dark.shadow-sm
        [:div.container.d-flex.justify-content-between
-        [:h1.navibar-brand.align-items-center.textlight "映画☆論評"]
+        [:h1.navibar-brand.align-items-center.text-light "映画☆論評"]
         (link-to {:class "py-2 text-light"} "/" "トップ")]]
       [:section
        content]]]]))
